@@ -48,12 +48,12 @@ ENGENHARIA DE PROMPT
     >>> Desenvolva uma história temática para um jogo de RPG. <<<
      Como todas as fontes adicionadas estavam selecionadas, a IA entregou uma resposta que misturava os conceitos de RPG do Dungeosn & Dragons com os conceitos teóricos da linguagem Python. 
   
-  2. Para desenvolver as regras básicas de mundo, o prompt utilizado foi: 
-    >>> Desenvolva todo sistema de regras deste mundo. Crie os monstros/ inimigos que devem ser derrotados (de preferência, que se assemelehm a bugs), crie um único personagem básico para ser usado pelo jogador e  desenvolva alguns buffs, debuffs e itens de ajuda que podem ser utilizados durante o jogo. O Objetivo é que os inimos sejam derrotados conforme o jogador conseguir resolver um problema de Python como por exemplo resolver um problema de código ou desbugar uma linha de código, ou até mesmo , responder corretamente alguma pergunta conceitual sobre a linguagem de programação. Quanto mais dificil o inimigo, mais dificil a pergunta a ser respondida e até a mesmo a quantidade de perguntas para derrotar um inimigo pode ser diferente <<<
+  2. Para desenvolver as regras básicas de mundo, o prompt utilizado foi:
+      >>> Desenvolva todo sistema de regras deste mundo. Crie os monstros/ inimigos que devem ser derrotados (de preferência, que se assemelehm a bugs), crie um único personagem básico para ser usado pelo jogador e  desenvolva alguns buffs, debuffs e itens de ajuda que podem ser utilizados durante o jogo. O Objetivo é que os inimos sejam derrotados conforme o jogador conseguir resolver um problema de Python como por exemplo resolver um problema de código ou desbugar uma linha de código, ou até mesmo , responder corretamente alguma pergunta conceitual sobre a linguagem de programação. Quanto mais dificil o inimigo, mais dificil a pergunta a ser respondida e até a mesmo a quantidade de perguntas para derrotar um inimigo pode ser diferente <<<
      Desta forma, as regras geradas foram as adicionadas como fontes (voltar ao tópico anterior).
 
-  3. A partir deste ponto, dei início à jornada de aprendizagem com o prompt : 
-    >>> Vamos começar a jogar! Você será o mestre, e eu serei o codificador aprendiz! Inicie a narrativa conforme você desejar e veja quais serão minhas próximas ações. Conto com você para aprender Python! <<<
+  3. A partir deste ponto, dei início à jornada de aprendizagem com o prompt :
+      >>> Vamos começar a jogar! Você será o mestre, e eu serei o codificador aprendiz! Inicie a narrativa conforme você desejar e veja quais serão minhas próximas ações. Conto com você para aprender Python! <<<
      O retorno foi como se segue : 
     >>> Saudações, Codificador Aprendiz! Como seu Mestre, guiarei seus passos pelo reino de Pythoria. Prepare seu console mental e vamos começar.
 Prólogo: O Caos em Grupy-Sanca
