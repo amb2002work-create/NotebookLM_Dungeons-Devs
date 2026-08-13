@@ -55,7 +55,7 @@ ENGENHARIA DE PROMPT
   3. A partir deste ponto, dei início à jornada de aprendizagem com o prompt : 
     >>> Vamos começar a jogar! Você será o mestre, e eu serei o codificador aprendiz! Inicie a narrativa conforme você desejar e veja quais serão minhas próximas ações. Conto com você para aprender Python! <<<
      O retorno foi como se segue : 
-     >>> Saudações, Codificador Aprendiz! Como seu Mestre, guiarei seus passos pelo reino de Pythoria. Prepare seu console mental e vamos começar.
+    >>> Saudações, Codificador Aprendiz! Como seu Mestre, guiarei seus passos pelo reino de Pythoria. Prepare seu console mental e vamos começar.
 Prólogo: O Caos em Grupy-Sanca
 Você está na taverna PyBar, na metrópole de Grupy-Sanca, um lugar conhecido pela troca de conhecimento e pelo excelente café rúnico
 . O ambiente é calmo até que, subitamente, as luzes das tochas de neon começam a piscar. O menu de poções na parede, que deveria exibir os preços, entra em um estado errático.
